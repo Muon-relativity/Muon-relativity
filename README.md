@@ -62,7 +62,7 @@
 
 ## 📫 Contact
 
-- ✉️ 이메일: muon.dev@example.com  
+- ✉️ 이메일: muon2200.gmail.com  
 - 💬 블로그: [https://muon22.tistory.com/](https://muon22.tistory.com/)
 
 ---
