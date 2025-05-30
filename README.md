@@ -42,8 +42,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=vue-dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=vue-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muon-relativity&show_icons=true&theme=vue-dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muon-relativity&layout=compact&theme=vue-dark"/>
 </p>
 
 ---
