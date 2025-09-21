@@ -35,20 +35,6 @@
 
 ---
 
-## 🧩 Projects
-
-| 프로젝트 | 설명 | 기술스택 |
-|----------|------|----------|
-| 🍽️ **FoodLens** | 음식 이미지 기반 레시피 추천 앱 (AI 연동) | Flutter, Python, Firebase |
-| 🧮 **Clean Calculator** | SOLID 원칙 기반 계산기 앱 | Flutter, Clean Architecture |
-| 🧩 **Sudoku Master** | 커스텀 UI 기반 퍼즐 게임 앱 | Flutter, Provider |
-| 💸 **Expense Tracker** | 개인 지출 관리 앱 | Kotlin, MVVM, Room |
-| 📷 **OCR Scanner** | 이미지 기반 문서 텍스트 추출 앱 | Swift, VisionKit |
-
-> 👉 [전체 프로젝트 보러가기](https://github.com/Muon-relativity?tab=repositories)
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
