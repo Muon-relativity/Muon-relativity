@@ -18,8 +18,6 @@
 ## 🧑‍💻 About Me
 - 📱 Flutter, iOS, Android 네이티브 개발 모두 가능
 - 🎯 Clean Architecture와 SOLID 원칙에 기반한 개발
-- 🤖 AI 이미지 분석 기반 기능 및 추천 시스템 프로젝트 진행
-- ✨ 매끄럽고 직관적인 사용자 경험을 지향합니다
 
 ---
 
