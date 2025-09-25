@@ -30,7 +30,7 @@
 
 ### 🧱 Architecture & Tools
 - Clean Architecture, MVVM, SOLID
-- Firebase, SQLite, REST API, Realm
+- Firebase, SQLite, REST API
 - Git, GitHub Actions, Figma, Notion, Postman
 
 ---
